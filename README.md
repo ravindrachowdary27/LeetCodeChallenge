@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravindrachowdary27/LeetCodeChallenge/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/ravindrachowdary27/LeetCodeChallenge/tree/master/2951-find-the-peaks) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/ravindrachowdary27/LeetCodeChallenge/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
